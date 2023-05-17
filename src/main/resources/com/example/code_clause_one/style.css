@@ -1,0 +1,16 @@
+.root {
+    -fx-font-family: "Arial";
+}
+
+#textArea {
+    -fx-font-size: 14pt;
+}
+
+#okButton, #cancelButton {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+}
+
+#okButton:hover, #cancelButton:hover {
+    -fx-background-color: #3E8E41;
+}
